@@ -1,0 +1,1 @@
+<div class="top-bar text-center">Welcome to Recruiter Dashboard</div>
